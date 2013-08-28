@@ -1,0 +1,4 @@
+GitMergeTest
+============
+
+Some test files
